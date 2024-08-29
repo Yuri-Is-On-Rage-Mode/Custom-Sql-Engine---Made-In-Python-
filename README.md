@@ -10,7 +10,7 @@
 - `repl.py`: For masochists who want to interact with this monstrosity directly!
 - `codefile.esql`: Basic commands for those who can't handle real SQL syntax!
 
-## "Learn" (If Your Brain Can Handle It)
+## "Learn 🧠" (If Your Brain Can Handle It)
 
 ### *Commands for the Command-Challenged*
 
@@ -78,8 +78,8 @@ PS G:\fri3nds\w-category-projects\JsonSql\Release> python repl.py
 
 ```
 
-# DEVELOPERS!
+# 🚀 DEVELOPERS!
 
 ### *ONLY ME, (hmZa):*
-> Please, This project needs a fix, I am not drunk but you guys deserve better!
-> # HAPPY CONTRIBUTE!!!!
+> Please, for the love of code, this project needs a fix! I am not drunk, but you deserve way better than this! 😡💻
+> # GET IN HERE AND CONTRIBUTE!!! 🚀🎉
